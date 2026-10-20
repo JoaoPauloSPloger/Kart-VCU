@@ -1,0 +1,74 @@
+# Compilados C/C++
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.map
+*.d
+sim_teste*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# LaTeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.dvi
+*.xdv
+*-converted-to.*
+*.fdb_latexmk
+*.synctex*
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*.run.xml
+*.bcf
+
+# CAD
+*.bak
+*.dwl
+*.dwl2
+*.ac$
+*.sv$
+*.err
+plot.log
+ErrorReports/
+
+# Temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# IDE e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
