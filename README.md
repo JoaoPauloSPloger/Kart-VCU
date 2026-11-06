@@ -63,5 +63,4 @@ Executar com semente fixa para reprodutibilidade:
 ## Autores
 
 - João Paulo Silva Plöger
-- Miguel
 - Fórmula Tesla UFMG — Universidade Federal de Minas Gerais
